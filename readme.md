@@ -10,9 +10,7 @@ WeBase
 ## :fire: Why yet another website generator?
 
 We use deep learning algorithms for front-end automation. We’ll teach a neural network how to code a basic HTML and CSS website based on a picture of a design mockup.
-
 ![webase picture to website](markdown/land.png)
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Contents
 
