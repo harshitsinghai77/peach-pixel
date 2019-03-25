@@ -9,12 +9,11 @@ WeBase
 
 ## :fire: Why yet another website generator?
 
-We use deep learning algorithms, to start exploring artificial front-end automation. We’ll teach a neural network how to code a basic a HTML and CSS website based on a picture of a design mockup.
+We use deep learning algorithms for front-end automation. We’ll teach a neural network how to code a basic HTML and CSS website based on a picture of a design mockup.
 
 ![webase picture to website](markdown/land.png)
 
-
-## Contents
+----------------------------------------------------------------------------------------------------------------------------------------## Contents
 
 * [Requirements](#requirements)
 * [Install](#install)
@@ -26,10 +25,7 @@ We use deep learning algorithms, to start exploring artificial front-end automat
 * [Features](#features)
 * [Technology Stack](#technology-stack)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Requirements
+----------------------------------------------------------------------------------------------------------------------------------------## Requirements
 
 
 To use Webase you need at least
@@ -41,9 +37,7 @@ npm i create-react-app
 pip install Flask
 ```
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+----------------------------------------------------------------------------------------------------------------------------------------
 ## Install
 
 :bulb: Tip: I recommend [installing](#install) npm and pip to install react and python packages.
@@ -117,21 +111,19 @@ flask-cors = "*"
 Then run `npm run` in your react working folder.
 and run `python app.py` in your flask working folder.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+----------------------------------------------------------------------------------------------------------------------------------------
 ## Getting started
 
 In webase app, you will see a landing page, click on get started which will redirect you to dashboard. You can edit previous work, upload new image and edit user information. 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 ### Everyone is Moving Online
 
 The twenty-first century digital world enabled mobile, empowered, content-hungry individuals to capture the value of enabling technologies and applications to manage, create, share, and influence content across the creation and delivery spectrum. Users were online in record numbers, spending a greater percentage of their time, and conducting more and more activities including communications, learning, entertainment, and social interaction. Digital technologies and broadband radically revolutionized the value equation for many industries, giving more influence and power to the individual. 
 
 **Businesses are now not just limited to physical addresses but are now moving towards virtual addresses on the internet. These virtual addresses are nothing but the web applications.**
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Why are Web Applications are Now More Relevant Than Ever?
 1. Internet Economy is growing at a massive rate - _9% of USA's GDP comes from the Internet Economy_
@@ -139,7 +131,7 @@ The twenty-first century digital world enabled mobile, empowered, content-hungry
 3. Businesses with effective web applications have significant advantage over their competitors with no or relatively less developed web applications - _85% of the customers of a product use the internet to check validity of a business_
 4. Web applications open new horizons - _For every job destroyed by the internet 2.6 new jobs are created_
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ## The problem WeBase solves?
 
@@ -148,7 +140,7 @@ With this massive ongoing transition where businesses are now moving to their vi
 1. Difficulty faced by small businesses, local traders and inviduals with no technical background to create a website to showcase their product or service that looks similar or exactly like their requirement - _More than 50% of small/medium-sized businesses in India do not have their own website_ 
 2. Large amount of time consumed by small/medium-sized businesses and individuals with techincal knowledge to develop a template of website that looks similar or exactly like their requirements thus obstructing rapid prototyping and slowing down process of application development.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 # Webase Solution
 
@@ -168,14 +160,14 @@ New Website Creation and Deployment Steps:
 
 **Step 5:** Website can be deployed by the user in a single click using third-party choices provided by us for. 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+# Features
+1. Convert mockup to HTML and CSS code
+2. Export the mockup into React Vue and Angular components
+3. Chose style for your mockup
+4. View and Edit previous work
 
-## Features
-1. Create and deploy new website.
-2. Edit existing website.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+----------------------------------------------------------------------------------------------------------------------------------------
 # Technology Stack
 * *React* A JavaScript library for building user interfaces
 * *Flask* Python's micro web framework.
@@ -185,3 +177,4 @@ New Website Creation and Deployment Steps:
 * *FloydHub* A zero setup Deep Learning platform for productive data science teams.
 * *Froala WYSIWYG Editor* Used to edit codebase of website generated by Deep Learning Model.
 
+![5-Click Model](markdown/ppt_images.jpg)
