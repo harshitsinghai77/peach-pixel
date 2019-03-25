@@ -13,7 +13,8 @@ We use deep learning algorithms for front-end automation. We’ll teach a neural
 
 ![webase picture to website](markdown/land.png)
 
-----------------------------------------------------------------------------------------------------------------------------------------## Contents
+----------------------------------------------------------------------------------------------------------------------------------------
+## Contents
 
 * [Requirements](#requirements)
 * [Install](#install)
@@ -25,7 +26,8 @@ We use deep learning algorithms for front-end automation. We’ll teach a neural
 * [Features](#features)
 * [Technology Stack](#technology-stack)
 
-----------------------------------------------------------------------------------------------------------------------------------------## Requirements
+----------------------------------------------------------------------------------------------------------------------------------------
+## Requirements
 
 
 To use Webase you need at least
