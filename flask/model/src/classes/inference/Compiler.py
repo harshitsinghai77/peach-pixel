@@ -10,7 +10,7 @@ BASE_DIR_NAME = os.path.dirname(__file__)
 DEFAULT_DSL_MAPPING_FILEPATH = "{}/styles/default-dsl-mapping.json".format(BASE_DIR_NAME)
 FACEBOOK_DSL_MAPPING_FILEPATH = "{}/styles/facebook_dsl_mapping.json".format(BASE_DIR_NAME)
 AIRBNB_DSL_MAPPING_FILEPATH = "{}/styles/airbnb_dsl_mapping.json".format(BASE_DIR_NAME)
-WEBASE_DSL_MAPPING_FILEPATH = "{}/styles/webase_dsl_mapping.json".format(BASE_DIR_NAME)
+PEACHPIXEL_DSL_MAPPING_FILEPATH = "{}/styles/peachpixel_dsl_mapping.json".format(BASE_DIR_NAME)
 DARK_DSL_MAPPING_FILEPATH = "{}/styles/dark_dsl_mapping.json".format(BASE_DIR_NAME)
 
 
@@ -33,8 +33,8 @@ class Compiler:
             return FACEBOOK_DSL_MAPPING_FILEPATH
         elif style == 'airbnb':
             return AIRBNB_DSL_MAPPING_FILEPATH
-        elif style == 'webase':
-            return WEBASE_DSL_MAPPING_FILEPATH
+        elif style == 'peachpixel':
+            return PEACHPIXEL_DSL_MAPPING_FILEPATH
         elif style == 'dark':
             return DARK_DSL_MAPPING_FILEPATH
 
