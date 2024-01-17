@@ -5,12 +5,12 @@ Peach Pixel
 
 ## <p align="center">[Visit our website](https://amdocs-prototype-webase.herokuapp.com)</p>
 
-[![Webase](markdown/webase.JPG)](https://amdocs-prototype-webase.herokuapp.com/)
+[![Peach Pixel ](markdown/webase.JPG)](https://amdocs-prototype-webase.herokuapp.com/)
 
 ## :fire: Why yet another website generator?
 
 We use deep learning algorithms for front-end automation. We’ll teach a neural network how to code a basic HTML and CSS website based on a picture of a design mockup.
-![webase picture to website](markdown/land.png)
+![Peach Pixel picture to website](markdown/land.png)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Contents
 
@@ -19,8 +19,8 @@ We use deep learning algorithms for front-end automation. We’ll teach a neural
 * [Getting started](#getting-started)
 * [Everyone is Moving Online](#everyone-is-moving-online)
 * [Why are Web Applications are Now More Relevant Than Ever?](#why-are-web-applications-are-now-more-relevant-than-ever)
-* [The problem WeBase solves](#the-problem-webase-solves)
-* [Webase Solution](#webase-solution)
+* [The problem Peach Pixel  solves](#the-problem-webase-solves)
+* [Peach Pixel  Solution](#webase-solution)
 * [Features](#features)
 * [Technology Stack](#technology-stack)
 
@@ -28,7 +28,7 @@ We use deep learning algorithms for front-end automation. We’ll teach a neural
 ## Requirements
 
 
-To use Webase you need at least
+To use Peach Pixel you need at least
 React 16.0.0
 Flask 1.12.0
 
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ```diff
 {
-  "name": "webase",
+  "name": "peach pixel",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -114,7 +114,7 @@ and run `python app.py` in your flask working folder.
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Getting started
 
-In webase app, you will see a landing page, click on get started which will redirect you to dashboard. You can edit previous work, upload new image and edit user information. 
+In Peach Pixel  app, you will see a landing page, click on get started which will redirect you to dashboard. You can edit previous work, upload new image and edit user information. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ### Everyone is Moving Online
@@ -133,7 +133,7 @@ The twenty-first century digital world enabled mobile, empowered, content-hungry
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-## The problem WeBase solves?
+## The problem Peach Pixel solves?
 
 With this massive ongoing transition where businesses are now moving to their virtual addresses, a lot of problems were bound to occur. We'll be tackling some these problems using our application: 
 
@@ -142,7 +142,7 @@ With this massive ongoing transition where businesses are now moving to their vi
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# Webase Solution
+# Peach Pixel Solution
 
 We'll be creating **5-click model** web application using which every user (regardless of the amount of technical knowledge they possess) right from a **ten year old to sixty five year old** can create and deploy a website - which looks exactly like they envisioned it to be - in matter of minutes. The same would be achieved using the following following 5 steps:
 
