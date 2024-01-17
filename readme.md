@@ -1,4 +1,4 @@
-WeBase
+Peach Pixel
 ===========
 
 **<p align="center">We'll be creating 5-click model web application - powered by deep learning - using which every user right from a ten year old to sixty five year old can create and deploy a website in a few minutes.</p>**
